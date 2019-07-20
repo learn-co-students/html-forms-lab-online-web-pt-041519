@@ -5,6 +5,14 @@ form * {
 }
 
 #checkbox {
-  display:inline;
+  display: inline;
+  width: 20px;
+}
 
+.box_formatting {
+  width: 200px; height: 15px;
+  margin-left: 15px;
+  font-size: 9px;
+  overflow: auto;
+  border: 2px solid #218277;
 }
